@@ -1,0 +1,6 @@
+# Ignore generated quiz history
+history.json
+
+# Ignore compiled Go executable
+quizmaster.exe
+quizmaster

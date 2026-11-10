@@ -1,0 +1,101 @@
+[
+    {
+        "question": "Which programming language is used to build QuizMaster?",
+        "options": [
+            "Python",
+            "Go",
+            "Java",
+            "C++"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which keyword is used to declare a variable in Go?",
+        "options": [
+            "var",
+            "let",
+            "define",
+            "dim"
+        ],
+        "answer": 1,
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which package is used for formatted input and output in Go?",
+        "options": [
+            "os",
+            "fmt",
+            "sort",
+            "time"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which data structure is used to store multiple values of the same type in Go?",
+        "options": [
+            "Class",
+            "Interface",
+            "Slice",
+            "Package"
+        ],
+        "answer": 3,
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which Go package is used to encode and decode JSON?",
+        "options": [
+            "fmt",
+            "strings",
+            "sort",
+            "encoding/json"
+        ],
+        "answer": 4,
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which keyword is used to define a function in Go?",
+        "options": [
+            "func",
+            "function",
+            "def",
+            "method"
+        ],
+        "answer": 1,
+        "difficulty": "medium"
+    },
+    {
+        "question": "Which function is used to sort a slice in Go?",
+        "options": [
+            "fmt.Sort()",
+            "os.Sort()",
+            "sort.Slice()",
+            "strings.Sort()"
+        ],
+        "answer": 3,
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which Go package provides buffered input and output functionality?",
+        "options": [
+            "time",
+            "bufio",
+            "math",
+            "sort"
+        ],
+        "answer": 2,
+        "difficulty": "hard"
+    },
+    {
+        "question": "Which function converts a JSON byte slice into a Go structure?",
+        "options": [
+            "json.Encode()",
+            "json.Write()",
+            "json.Marshal()",
+            "json.Unmarshal()"
+        ],
+        "answer": 4,
+        "difficulty": "hard"
+    }
+]
