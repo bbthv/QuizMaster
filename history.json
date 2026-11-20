@@ -1,0 +1,38 @@
+[
+    {
+        "score": 0,
+        "total_questions": 3,
+        "difficulty": "easy",
+        "date": "2026-11-10T11:59:35.276924+05:30"
+    },
+    {
+        "score": 1,
+        "total_questions": 3,
+        "difficulty": "hard",
+        "date": "2026-11-20T12:07:37.7044446+05:30"
+    },
+    {
+        "score": 3,
+        "total_questions": 3,
+        "difficulty": "easy",
+        "date": "2026-11-20T12:08:09.0982817+05:30"
+    },
+    {
+        "score": 1,
+        "total_questions": 3,
+        "difficulty": "medium",
+        "date": "2026-11-20T12:08:46.5205108+05:30"
+    },
+    {
+        "score": 0,
+        "total_questions": 3,
+        "difficulty": "easy",
+        "date": "2026-11-20T12:15:38.5151291+05:30"
+    },
+    {
+        "score": 3,
+        "total_questions": 3,
+        "difficulty": "easy",
+        "date": "2026-11-20T12:16:01.9375947+05:30"
+    }
+]
